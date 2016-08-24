@@ -21,4 +21,10 @@ Exclusions work the same as for cleanup.ps1.  However, due to how SCCM imports y
 >    [string]$exclude = "Skype.lnk,VMware vSphere Client.lnk"  
 >    )
 
+# Contributor
+Garret Rumohr
+
+# License
+GPLv3
+
 
